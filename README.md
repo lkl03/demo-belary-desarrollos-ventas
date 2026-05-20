@@ -1,2 +1,7 @@
-# demo-belary-desarrollos-ventas
-Demo web para BELARY DESARROLLOS - VENTAS — diseñada por eterlab.
+# BELARY DESARROLLOS - VENTAS
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
